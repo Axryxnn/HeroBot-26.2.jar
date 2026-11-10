@@ -1,1 +1,0 @@
-# HeroBot-26.2.jar
